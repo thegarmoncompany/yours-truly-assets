@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'CormorantSB';
+  src: url('https://cdn.jsdelivr.net/gh/thegarmoncompany/yours-truly-assets/CormorantGaramond-SemiBold.woff2');
+}
+
+@font-face {
+  font-family: 'CormorantLight';
+  src: url('https://cdn.jsdelivr.net/gh/thegarmoncompany/yours-truly-assets/Cormorant-Garamond-Light.woff2');
+}
+
+@font-face {
+  font-family: 'CormorantItalic';
+  src: url('https://cdn.jsdelivr.net/gh/thegarmoncompany/yours-truly-assets/Cormorant-Garamond-Light-Itallic.woff2');
+}
+
+@font-face {
+  font-family: 'BethEllen';
+  src: url('https://cdn.jsdelivr.net/gh/thegarmoncompany/yours-truly-assets/BethEllen-Regular.woff2');
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('https://cdn.jsdelivr.net/gh/thegarmoncompany/yours-truly-assets/NunitoSans-ExtraBold.woff2');
+}
