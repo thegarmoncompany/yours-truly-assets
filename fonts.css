@@ -24,6 +24,11 @@
 }
 
 @font-face {
-  font-family: 'Rocline';
-  src: url('https://cdn.jsdelivr.net/gh/thegarmoncompany/yours-truly-assets/Rocline-Regular.woff2');
+  font-family: 'RampartOne';
+  src: url('https://cdn.jsdelivr.net/gh/thegarmoncompany/yours-truly-assets/rampart-one-regular.woff2');
+}
+
+@font-face {
+  font-family: 'Ranchers';
+  src: url('https://cdn.jsdelivr.net/gh/thegarmoncompany/yours-truly-assets/ranchers-regular.woff2');
 }
