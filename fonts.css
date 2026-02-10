@@ -22,3 +22,8 @@
   font-family: 'Nunito';
   src: url('https://cdn.jsdelivr.net/gh/thegarmoncompany/yours-truly-assets/NunitoSans-ExtraBold.woff2');
 }
+
+@font-face {
+  font-family: 'Rocline';
+  src: url('https://cdn.jsdelivr.net/gh/thegarmoncompany/yours-truly-assets/Rocline-Regular.woff2');
+}
